@@ -1,0 +1,2 @@
+content fizLogger content/
+overlay chrome://browser/content/browser.xul chrome://fizLogger/content/fizLogger.xul
